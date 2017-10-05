@@ -1,6 +1,6 @@
 # sample-firebase-auth
 
-see <https://firebase.google.com/docs/functions/config-env>
+see <https://firebase.google.com/docs/>
 
 ## 1. npm install
 
